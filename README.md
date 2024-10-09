@@ -3,6 +3,9 @@
 ## Overview :
 This repo is a sample code of YAML reader for VBA Excel.
 
+### Sample code
+https://web.archive.org/web/20241009093457/https://medium.com/@sakai.memoru/convert-a-yaml-file-to-cjobject-in-vba-2fee22e85818
+
 ## Dependencies :
 - cJobject.cls
   https://sites.google.com/a/mcpher.com/share/Home/excelquirks/json
